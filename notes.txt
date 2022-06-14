@@ -1,1 +1,12 @@
 ALGORITHM - an algorithm is a set of well defined instructions to solve a particular problem.
+Features- Well defined inputs and outputs
+        Each step should be clear and unambiguous
+        Language independent
+
+ALGORITHM analysis - we can evaluate the performance of an algorithm in terms of its input size.
+Time Complexity- Amount of time taken by an algorithm to run, as a function of input size.
+Space Complexity- Amount of space taken by an algorithm to run, as a function of input size.
+
+Represent Complexity: Asymptotic notations- 1)Big-o-notation- Worst case Complexity
+                                            2) Omega notation- Best case Complexity
+                                            3)Theta notation - Average case Complexity
